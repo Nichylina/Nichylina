@@ -17,8 +17,6 @@
   </a>
 </div>
 
-![code (1)](https://github.com/Nichylina/Nichylina/assets/127602968/e746e5c8-0fac-4c0b-a667-36a059565853)
-
 
 
  <!-- About section -->
@@ -29,8 +27,7 @@
 - :seedling: When I'm not coding you can find me for travel and new adventures.
 
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="400" height="280" />
+![code (1)](https://github.com/Nichylina/Nichylina/assets/127602968/e746e5c8-0fac-4c0b-a667-36a059565853)
  
 
 - 💬 Ask me about: Python, SQL, Jupyter Notebook, SQLite, PostgreSQL, Tableau
