@@ -22,7 +22,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a beginner data analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Even as an economist, I considered macroeconomic indicators as methods of descriptive statistics. I liked it, I got carried away. I was struck by data analytics with its "magic" that you can build hypotheses and draw conclusions based not on empirical experience, but on concrete results.
+✨ I'm a beginner data analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Even as an economist, I considered macroeconomic metrics to be methods of descriptive statistics. I liked it, I got carried away. I was struck by data analytics with its "magic" that you can build hypotheses and draw conclusions based not on empirical experience, but on concrete results.
 
 
 ![code (1)](https://github.com/Nichylina/Nichylina/assets/127602968/e746e5c8-0fac-4c0b-a667-36a059565853)
