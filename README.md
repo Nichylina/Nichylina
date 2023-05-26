@@ -31,7 +31,9 @@
 
  
 
-- 💬 Ask me about: Python, SQL, Jupyter Notebook, SQLite, PostgreSQL, Tableau
+- 💬 Languages and tools: Python, SQL, Jupyter Notebook, Tableau
+
+- :telescope: ML/DL: Pandas, Numpy, Scipy, Matplotlib
 
 - ⚡ Fun fact: I like to cook and my favorite dish is indigirka because I am from Yakutia. If you don't know where Yakutia is located [look here](https://www.youtube.com/watch?v=VEcKdbGXZp4)
 
